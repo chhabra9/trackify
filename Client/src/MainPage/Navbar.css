@@ -1,0 +1,23 @@
+.navbar {
+    float: right;
+    display: inline;
+    text-align: right;
+    padding: 26px;
+    margin:  0 0 20px 0;
+    width: 100%;
+    margin-bottom: 0;
+    background-color: black;
+}
+
+.menuStyle {
+    padding: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    color: whitesmoke;
+    margin: 30px;
+    text-align: center;
+}
+.button{
+    background-color:rgba(245, 229, 11, 0.966);
+    
+}

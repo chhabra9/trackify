@@ -1,0 +1,50 @@
+.main-slide{
+    padding-top: 41px;
+
+}
+.carousel.carousel-slider {
+    position: relative;
+    margin: 75px 0px;
+    overflow: hidden;
+}
+.carousel .slider-wrapper{
+    width: 100%;
+    height: auto;
+}
+.carousel .thumb{
+    width: 0px;
+    height: 0px;;
+    border:none;
+    border-radius: 80%;
+    text-align: center;
+    display: none;
+}
+.carousel{
+    text-align: center;
+    content: none;
+}
+.main-slide div{
+    position: relative;
+    background-color: none;
+    top:-30px;
+    
+    background-color: transparent;
+}
+.carousel.carousel-slider {
+    position: relative;
+    margin-top: 87px;
+    overflow: hidden;
+}
+
+.main-slide div img{
+    width: 100%;
+}
+
+.main-slide div p{
+    font-family: cursive;
+    font-size: 80px;
+    background-color: none;
+    padding:20px;
+    position: relative;;
+    background: none;
+}

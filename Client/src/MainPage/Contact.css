@@ -1,0 +1,125 @@
+.upperimg{
+    width: 100%;
+    height: 500px;
+}
+.upperimg img{
+    width: 100%;
+    height: 75%;
+    position: relative;
+    top: -70px;
+}
+.head{
+    position: relative;
+    top:110px;
+    font-size:40px;
+    left:40%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    color:beige;
+     
+}
+.heading{
+    text-align: center;
+    font-size:60px ;
+    position: relative;
+    top:-2px;
+    text-shadow: 1.5px 1.5px 4px rgb(140, 0, 255);
+}
+.fdiv{
+    margin-top: 30px;
+    display: flex;
+    margin-bottom: 30px;
+   
+}
+.ss{
+    color: aquamarine;
+    background-color:black ;
+    width: 100%;
+    text-align: center;
+    margin: 5px 40px;
+    border-radius: 30px;
+ 
+}
+.ss:hover{
+   
+    
+    transform: translateY(0) scale(1.1);}
+.ss img{
+    margin-top: 20px;;
+    width:60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 50%;
+
+}
+.maptag{
+    text-align: center;
+    margin:40px 20px;
+    background-color: cornsilk;
+}
+.map{
+    width:100%;
+    margin: 10px;
+     height:450px ;
+    text-align: center;
+
+}
+.contact-form{
+    display: flex;
+    width: 100%;
+    border-top:1px solid black;
+    background-color: darkgrey;
+}
+.content{
+    margin-left: 480px;
+    text-align: center;
+    width: 500px;
+    height:200px;
+}
+.content h4{
+    font-size: 25px;
+    font-weight: 300;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.content input{
+    width: 80%;
+    height: 40px;
+}
+.msg{
+    text-align: center;
+    width: 100%;
+    height:200px;
+    margin-top:-70px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: darkgrey;
+    margin-bottom: 20px;
+}
+.msg  input{
+    width: 90%;
+    height: 80px;
+    text-align: justify;
+}
+.msg h4{
+    font-size: 25px;
+    font-weight: 300;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.btn{
+    text-align: center;
+    margin-top: 10px;;
+    margin-bottom: 30px;
+   
+}
+.btn button{
+    width: 200px;
+    height: 30px;
+background-color: rgb(21, 255, 0);
+}
+.love{
+    text-align: center;
+    font-style: italic;
+    text-decoration: darksalmon;
+    font-size: 30px;
+    text-orientation: sideways-right;
+}
